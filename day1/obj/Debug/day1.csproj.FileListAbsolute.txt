@@ -5,3 +5,10 @@ C:\Users\Cgvak\source\repos\day1\obj\Debug\day1.csproj.AssemblyReference.cache
 C:\Users\Cgvak\source\repos\day1\obj\Debug\day1.csproj.CoreCompileInputs.cache
 C:\Users\Cgvak\source\repos\day1\obj\Debug\day1.exe
 C:\Users\Cgvak\source\repos\day1\obj\Debug\day1.pdb
+E:\c#basics\day1\bin\Debug\day1.exe.config
+E:\c#basics\day1\bin\Debug\day1.exe
+E:\c#basics\day1\bin\Debug\day1.pdb
+E:\c#basics\day1\obj\Debug\day1.csproj.AssemblyReference.cache
+E:\c#basics\day1\obj\Debug\day1.csproj.CoreCompileInputs.cache
+E:\c#basics\day1\obj\Debug\day1.exe
+E:\c#basics\day1\obj\Debug\day1.pdb
